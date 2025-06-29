@@ -47,7 +47,7 @@ pillow-heif (Required for HEIC to JPG conversion)
 🚀 Installation & Usage
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/serdevir91/converter.git
 cd your-repository-name
 
 Install the required libraries:
